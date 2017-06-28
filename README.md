@@ -1,0 +1,2 @@
+# common-component
+komponens tároló
